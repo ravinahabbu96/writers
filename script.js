@@ -8,3 +8,5 @@ function add(c,d){
 add(3,3)
 a=add(3,3)
 console.log(a)
+
+console.log(1996)
